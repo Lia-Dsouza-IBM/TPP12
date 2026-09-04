@@ -23,6 +23,16 @@
         <value name="value">hello.world</value>
         <value name="isSecure">false</value>
       </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="key">passwordVal</value>
+        <value name="value">gvhandle.passwordVal</value>
+        <value name="isSecure">true</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="key">nameVal</value>
+        <value name="value">hello world</value>
+        <value name="isSecure">false</value>
+      </record>
     </array>
   </record>
 </IDataXMLCoder>
